@@ -1,0 +1,1446 @@
+{
+  "readingOrder": [
+    {
+      "rbdigital:id": "1678874",
+      "title": "Introduction",
+      "schema:contentSize": 434592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/0/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1678874%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_001_IN",
+      "duration": 72.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1678875",
+      "title": "Chapter 1",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/1/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1678875%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_002_C001",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1678876",
+      "title": "Chapter 2",
+      "schema:contentSize": 393552,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/2/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1678876%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_003_C002",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1678877",
+      "title": "Chapter 3",
+      "schema:contentSize": 361152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/3/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1678877%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_004_C003",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1678878",
+      "title": "Chapter 4",
+      "schema:contentSize": 369792,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/4/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1678878%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_005_C004",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680232",
+      "title": "Chapter 5",
+      "schema:contentSize": 369792,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/5/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680232%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_006_C005",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680233",
+      "title": "Chapter 6",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/6/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680233%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_007_C006",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680234",
+      "title": "Chapter 7",
+      "schema:contentSize": 361152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/7/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680234%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_008_C007",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680235",
+      "title": "Chapter 8",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/8/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680235%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_009_C008",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680236",
+      "title": "Chapter 9",
+      "schema:contentSize": 257472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/9/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680236%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_010_C009",
+      "duration": 42.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680237",
+      "title": "Chapter 10",
+      "schema:contentSize": 365472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/10/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680237%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_011_C010",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680238",
+      "title": "Chapter 11",
+      "schema:contentSize": 354672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/11/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680238%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_012_C011",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680239",
+      "title": "Chapter 12",
+      "schema:contentSize": 402192,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/12/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680239%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_013_C012",
+      "duration": 66.60000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680240",
+      "title": "Chapter 13",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/13/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680240%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_014_C013",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680241",
+      "title": "Chapter 14",
+      "schema:contentSize": 354672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/14/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680241%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_015_C014",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680242",
+      "title": "Chapter 15",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/15/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680242%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_016_C015",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680243",
+      "title": "Chapter 16",
+      "schema:contentSize": 365472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/16/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680243%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_017_C016",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680244",
+      "title": "Chapter 17",
+      "schema:contentSize": 350352,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/17/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680244%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_018_C017",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680245",
+      "title": "Chapter 18",
+      "schema:contentSize": 341712,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/18/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680245%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_019_C018",
+      "duration": 57.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680246",
+      "title": "Chapter 19",
+      "schema:contentSize": 393552,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/19/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680246%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_020_C019",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680247",
+      "title": "Chapter 20",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/20/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680247%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_021_C020",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680248",
+      "title": "Chapter 21",
+      "schema:contentSize": 367632,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/21/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680248%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_022_C021",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680249",
+      "title": "Chapter 22",
+      "schema:contentSize": 397872,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/22/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680249%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_023_C022",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680250",
+      "title": "Chapter 23",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/23/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680250%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_024_C023",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680251",
+      "title": "Chapter 24",
+      "schema:contentSize": 350352,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/24/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680251%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_025_C024",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680252",
+      "title": "Chapter 25",
+      "schema:contentSize": 358992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/25/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680252%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_026_C025",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680253",
+      "title": "Chapter 26",
+      "schema:contentSize": 365472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/26/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680253%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_027_C026",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680254",
+      "title": "Chapter 27",
+      "schema:contentSize": 600912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/27/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680254%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_028_C027",
+      "duration": 99.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680255",
+      "title": "Chapter 28",
+      "schema:contentSize": 333072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/28/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680255%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_029_C028",
+      "duration": 55.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680256",
+      "title": "Chapter 29",
+      "schema:contentSize": 352512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/29/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680256%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_030_C029",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680257",
+      "title": "Chapter 30",
+      "schema:contentSize": 384912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/30/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680257%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_031_C030",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680258",
+      "title": "Chapter 31",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/31/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680258%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_032_C031",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680259",
+      "title": "Chapter 32",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/32/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680259%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_033_C032",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680260",
+      "title": "Chapter 33",
+      "schema:contentSize": 378432,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/33/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680260%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_034_C033",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680261",
+      "title": "Chapter 34",
+      "schema:contentSize": 341712,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/34/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680261%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_035_C034",
+      "duration": 57.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680262",
+      "title": "Chapter 35",
+      "schema:contentSize": 354672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/35/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680262%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_036_C035",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680263",
+      "title": "Chapter 36",
+      "schema:contentSize": 257472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/36/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680263%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_037_C036",
+      "duration": 42.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680264",
+      "title": "Chapter 37",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/37/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680264%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_038_C037",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680265",
+      "title": "Chapter 38",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/38/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680265%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_039_C038",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680266",
+      "title": "Chapter 39",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/39/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680266%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_040_C039",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680267",
+      "title": "Chapter 40",
+      "schema:contentSize": 365472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/40/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680267%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_041_C040",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680268",
+      "title": "Chapter 41",
+      "schema:contentSize": 358992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/41/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680268%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_042_C041",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680269",
+      "title": "Chapter 42",
+      "schema:contentSize": 343872,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/42/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680269%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_043_C042",
+      "duration": 57.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680270",
+      "title": "Chapter 43",
+      "schema:contentSize": 361152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/43/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680270%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_044_C043",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680271",
+      "title": "Chapter 44",
+      "schema:contentSize": 404352,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/44/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680271%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_045_C044",
+      "duration": 66.60000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680272",
+      "title": "Chapter 45",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/45/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680272%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_046_C045",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680273",
+      "title": "Chapter 46",
+      "schema:contentSize": 417312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/46/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680273%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_047_C046",
+      "duration": 69.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680274",
+      "title": "Chapter 47",
+      "schema:contentSize": 406512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/47/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680274%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_048_C047",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680275",
+      "title": "Chapter 48",
+      "schema:contentSize": 384912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/48/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680275%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_049_C048",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680276",
+      "title": "Chapter 49",
+      "schema:contentSize": 374112,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/49/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680276%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_050_C049",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680277",
+      "title": "Chapter 50",
+      "schema:contentSize": 354672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/50/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680277%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_051_C050",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680278",
+      "title": "Chapter 51",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/51/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680278%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_052_C051",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680279",
+      "title": "Chapter 52",
+      "schema:contentSize": 387072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/52/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680279%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_053_C052",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680280",
+      "title": "Chapter 53",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/53/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680280%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_054_C053",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1680281",
+      "title": "Chapter 54",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/54/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1680281%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_055_C054",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681718",
+      "title": "Chapter 55",
+      "schema:contentSize": 326592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/55/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681718%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_056_C055",
+      "duration": 54.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681719",
+      "title": "Chapter 56",
+      "schema:contentSize": 367632,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/56/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681719%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_057_C056",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681720",
+      "title": "Chapter 57",
+      "schema:contentSize": 469152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/57/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681720%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_058_C057",
+      "duration": 78.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681721",
+      "title": "Chapter 58",
+      "schema:contentSize": 326592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/58/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681721%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_059_C058",
+      "duration": 54.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681722",
+      "title": "Chapter 59",
+      "schema:contentSize": 367632,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/59/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681722%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_060_C059",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681723",
+      "title": "Chapter 60",
+      "schema:contentSize": 374112,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/60/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681723%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_061_C060",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681724",
+      "title": "Chapter 61",
+      "schema:contentSize": 348192,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/61/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681724%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_062_C061",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681725",
+      "title": "Chapter 62",
+      "schema:contentSize": 369792,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/62/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681725%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_063_C062",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681726",
+      "title": "Chapter 63",
+      "schema:contentSize": 350352,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/63/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681726%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_064_C063",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681727",
+      "title": "Chapter 64",
+      "schema:contentSize": 400032,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/64/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681727%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_065_C064",
+      "duration": 66.60000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681728",
+      "title": "Chapter 65",
+      "schema:contentSize": 421632,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/65/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681728%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_066_C065",
+      "duration": 69.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681729",
+      "title": "Chapter 66",
+      "schema:contentSize": 592272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/66/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681729%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_067_C066",
+      "duration": 99.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681730",
+      "title": "Chapter 67",
+      "schema:contentSize": 330912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/67/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681730%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_068_C067",
+      "duration": 54.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681731",
+      "title": "Chapter 68",
+      "schema:contentSize": 406512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/68/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681731%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_069_C068",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681732",
+      "title": "Chapter 69",
+      "schema:contentSize": 408672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/69/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681732%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_070_C069",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681733",
+      "title": "Chapter 70",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/70/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681733%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_071_C070",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681734",
+      "title": "Chapter 71",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/71/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681734%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_072_C071",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681735",
+      "title": "Chapter 72",
+      "schema:contentSize": 384912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/72/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681735%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_073_C072",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681736",
+      "title": "Chapter 73",
+      "schema:contentSize": 382752,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/73/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681736%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_074_C073",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681737",
+      "title": "Chapter 74",
+      "schema:contentSize": 559872,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/74/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681737%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_075_C074",
+      "duration": 93.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681738",
+      "title": "Chapter 75",
+      "schema:contentSize": 391392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/75/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681738%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_076_C075",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681739",
+      "title": "Chapter 76",
+      "schema:contentSize": 387072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/76/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681739%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_077_C076",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681740",
+      "title": "Chapter 77",
+      "schema:contentSize": 328752,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/77/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681740%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_078_C077",
+      "duration": 54.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681741",
+      "title": "Chapter 78",
+      "schema:contentSize": 374112,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/78/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681741%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_079_C078",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681742",
+      "title": "Chapter 79",
+      "schema:contentSize": 382752,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/79/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681742%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_080_C079",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681743",
+      "title": "Chapter 80",
+      "schema:contentSize": 352512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/80/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681743%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_081_C080",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681744",
+      "title": "Chapter 81",
+      "schema:contentSize": 361152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/81/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681744%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_082_C081",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681745",
+      "title": "Chapter 82",
+      "schema:contentSize": 749952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/82/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681745%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_083_C082",
+      "duration": 124.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681746",
+      "title": "Chapter 83",
+      "schema:contentSize": 389232,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/83/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681746%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_084_C083",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681747",
+      "title": "Chapter 84",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/84/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681747%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_085_C084",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681748",
+      "title": "Chapter 85",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/85/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681748%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_086_C085",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681749",
+      "title": "Chapter 86",
+      "schema:contentSize": 382752,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/86/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681749%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_087_C086",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681750",
+      "title": "Chapter 87",
+      "schema:contentSize": 371952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/87/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681750%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_088_C087",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681751",
+      "title": "Chapter 88",
+      "schema:contentSize": 283392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/88/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681751%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_089_C088",
+      "duration": 46.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681752",
+      "title": "Chapter 89",
+      "schema:contentSize": 384912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/89/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681752%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_090_C089",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681753",
+      "title": "Chapter 90",
+      "schema:contentSize": 365472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/90/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681753%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_091_C090",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681754",
+      "title": "Chapter 91",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/91/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681754%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_092_C091",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681755",
+      "title": "Chapter 92",
+      "schema:contentSize": 367632,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/92/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681755%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_093_C092",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681756",
+      "title": "Chapter 93",
+      "schema:contentSize": 348192,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/93/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681756%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_094_C093",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681757",
+      "title": "Chapter 94",
+      "schema:contentSize": 346032,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/94/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681757%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_095_C094",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681758",
+      "title": "Chapter 95",
+      "schema:contentSize": 380592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/95/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681758%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_096_C095",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681759",
+      "title": "Chapter 96",
+      "schema:contentSize": 412992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/96/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681759%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_097_C096",
+      "duration": 69.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681760",
+      "title": "Chapter 97",
+      "schema:contentSize": 352512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/97/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681760%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_098_C097",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681761",
+      "title": "Chapter 98",
+      "schema:contentSize": 596592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/98/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681761%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_099_C098",
+      "duration": 99.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681762",
+      "title": "Chapter 99",
+      "schema:contentSize": 365472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/99/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681762%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_100_C099",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681763",
+      "title": "Chapter 100",
+      "schema:contentSize": 408672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/100/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681763%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_101_C100",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681764",
+      "title": "Chapter 101",
+      "schema:contentSize": 361152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/101/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681764%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_102_C101",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681765",
+      "title": "Chapter 102",
+      "schema:contentSize": 380592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/102/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681765%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_103_C102",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681766",
+      "title": "Chapter 103",
+      "schema:contentSize": 412992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/103/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681766%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_104_C103",
+      "duration": 69.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1681767",
+      "title": "Chapter 104",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/104/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1681767%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_105_C104",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682906",
+      "title": "Chapter 105",
+      "schema:contentSize": 410832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/105/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682906%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_106_C105",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682907",
+      "title": "Chapter 106",
+      "schema:contentSize": 417312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/106/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682907%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_107_C106",
+      "duration": 69.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682908",
+      "title": "Chapter 107",
+      "schema:contentSize": 408672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/107/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682908%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_108_C107",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682909",
+      "title": "Chapter 108",
+      "schema:contentSize": 410832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/108/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682909%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_109_C108",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682910",
+      "title": "Chapter 109",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/109/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682910%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_110_C109",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682911",
+      "title": "Chapter 110",
+      "schema:contentSize": 358992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/110/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682911%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_111_C110",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682912",
+      "title": "Chapter 111",
+      "schema:contentSize": 363312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/111/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682912%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_112_C111",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682913",
+      "title": "Chapter 112",
+      "schema:contentSize": 387072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/112/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682913%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_113_C112",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682914",
+      "title": "Chapter 113",
+      "schema:contentSize": 387072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/113/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682914%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_114_C113",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682915",
+      "title": "Chapter 114",
+      "schema:contentSize": 391392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/114/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682915%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_115_C114",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682916",
+      "title": "Chapter 115",
+      "schema:contentSize": 369792,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/115/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682916%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_116_C115",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682917",
+      "title": "Chapter 116",
+      "schema:contentSize": 358992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/116/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682917%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_117_C116",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682918",
+      "title": "Chapter 117",
+      "schema:contentSize": 419472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/117/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682918%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_118_C117",
+      "duration": 69.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682919",
+      "title": "Chapter 118",
+      "schema:contentSize": 549072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/118/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682919%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_119_C118",
+      "duration": 91.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682920",
+      "title": "Chapter 119",
+      "schema:contentSize": 391392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/119/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682920%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_120_C119",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682921",
+      "title": "Chapter 120",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/120/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682921%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_121_C120",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682922",
+      "title": "Chapter 121",
+      "schema:contentSize": 415152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/121/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682922%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_122_C121",
+      "duration": 69.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682923",
+      "title": "Chapter 122",
+      "schema:contentSize": 358992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/122/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682923%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_123_C122",
+      "duration": 60.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682924",
+      "title": "Chapter 123",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/123/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682924%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_124_C123",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682925",
+      "title": "Chapter 124",
+      "schema:contentSize": 415152,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/124/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682925%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_125_C124",
+      "duration": 69.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682926",
+      "title": "Chapter 125",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/125/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682926%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_126_C125",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682927",
+      "title": "Chapter 126",
+      "schema:contentSize": 380592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/126/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682927%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_127_C126",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682928",
+      "title": "Chapter 127",
+      "schema:contentSize": 466992,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/127/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682928%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_128_C127",
+      "duration": 78.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682929",
+      "title": "Chapter 128",
+      "schema:contentSize": 676512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/128/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682929%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_129_C128",
+      "duration": 112.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682930",
+      "title": "Chapter 129",
+      "schema:contentSize": 352512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/129/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682930%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_130_C129",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682931",
+      "title": "Chapter 130",
+      "schema:contentSize": 404352,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/130/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682931%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_131_C130",
+      "duration": 66.60000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682932",
+      "title": "Chapter 131",
+      "schema:contentSize": 443232,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/131/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682932%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_132_C131",
+      "duration": 73.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682933",
+      "title": "Chapter 132",
+      "schema:contentSize": 387072,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/132/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682933%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_133_C132",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682934",
+      "title": "Chapter 133",
+      "schema:contentSize": 378432,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/133/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682934%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_134_C133",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682935",
+      "title": "Chapter 134",
+      "schema:contentSize": 395712,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/134/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682935%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_135_C134",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682936",
+      "title": "Chapter 135",
+      "schema:contentSize": 382752,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/135/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682936%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_136_C135",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682937",
+      "title": "Chapter 136",
+      "schema:contentSize": 391392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/136/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682937%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_137_C136",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682938",
+      "title": "Chapter 137",
+      "schema:contentSize": 346032,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/137/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682938%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_138_C137",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682939",
+      "title": "Chapter 138",
+      "schema:contentSize": 289872,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/138/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682939%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_139_C138",
+      "duration": 48.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682940",
+      "title": "Chapter 139",
+      "schema:contentSize": 350352,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/139/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682940%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_140_C139",
+      "duration": 57.599999999999994,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682941",
+      "title": "Chapter 140",
+      "schema:contentSize": 341712,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/140/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682941%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_141_C140",
+      "duration": 57.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682942",
+      "title": "Chapter 141",
+      "schema:contentSize": 378432,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/141/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682942%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_142_C141",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682943",
+      "title": "Chapter 142",
+      "schema:contentSize": 397872,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/142/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682943%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_143_C142",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682944",
+      "title": "Chapter 143",
+      "schema:contentSize": 339552,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/143/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682944%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_144_C143",
+      "duration": 57.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682945",
+      "title": "Chapter 144",
+      "schema:contentSize": 272592,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/144/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682945%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_145_C144",
+      "duration": 45.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682946",
+      "title": "Chapter 145",
+      "schema:contentSize": 384912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/145/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682946%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_146_C145",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682947",
+      "title": "Chapter 146",
+      "schema:contentSize": 384912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/146/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682947%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_147_C146",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682948",
+      "title": "Chapter 147",
+      "schema:contentSize": 382752,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/147/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682948%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_148_C147",
+      "duration": 63.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682949",
+      "title": "Chapter 148",
+      "schema:contentSize": 369792,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/148/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682949%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_149_C148",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682950",
+      "title": "Chapter 149",
+      "schema:contentSize": 374112,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/149/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682950%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_150_C149",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682951",
+      "title": "Chapter 150",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/150/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682951%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_151_C150",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682952",
+      "title": "Chapter 151",
+      "schema:contentSize": 395712,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/151/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682952%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_152_C151",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1682953",
+      "title": "Chapter 152",
+      "schema:contentSize": 402192,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/152/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1682953%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_153_C152",
+      "duration": 66.60000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684100",
+      "title": "Chapter 153",
+      "schema:contentSize": 406512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/153/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684100%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_154_C153",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684101",
+      "title": "Chapter 154",
+      "schema:contentSize": 397872,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/154/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684101%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_155_C154",
+      "duration": 66.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684102",
+      "title": "Chapter 155",
+      "schema:contentSize": 417312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/155/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684102%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_156_C155",
+      "duration": 69.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684103",
+      "title": "Chapter 156",
+      "schema:contentSize": 406512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/156/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684103%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_157_C156",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684104",
+      "title": "Chapter 157",
+      "schema:contentSize": 410832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/157/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684104%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_158_C157",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684105",
+      "title": "Chapter 158",
+      "schema:contentSize": 374112,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/158/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684105%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_159_C158",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684106",
+      "title": "Chapter 159",
+      "schema:contentSize": 378432,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/159/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684106%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_160_C159",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684107",
+      "title": "Chapter 160",
+      "schema:contentSize": 391392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/160/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684107%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_161_C160",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684108",
+      "title": "Chapter 161",
+      "schema:contentSize": 408672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/161/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684108%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_162_C161",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684109",
+      "title": "Chapter 162",
+      "schema:contentSize": 391392,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/162/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684109%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_163_C162",
+      "duration": 64.80000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684110",
+      "title": "Chapter 163",
+      "schema:contentSize": 356832,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/163/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684110%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_164_C163",
+      "duration": 58.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684111",
+      "title": "Chapter 164",
+      "schema:contentSize": 417312,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/164/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684111%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_165_C164",
+      "duration": 69.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684112",
+      "title": "Chapter 165",
+      "schema:contentSize": 322272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/165/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684112%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_166_C165",
+      "duration": 54.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684113",
+      "title": "Chapter 166",
+      "schema:contentSize": 425952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/166/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684113%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_167_C166",
+      "duration": 70.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684114",
+      "title": "Chapter 167",
+      "schema:contentSize": 369792,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/167/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684114%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_168_C167",
+      "duration": 61.800000000000004,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684115",
+      "title": "Chapter 168",
+      "schema:contentSize": 438912,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/168/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684115%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_169_C168",
+      "duration": 72.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684116",
+      "title": "Chapter 169",
+      "schema:contentSize": 406512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/169/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684116%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_170_C169",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684117",
+      "title": "Chapter 170",
+      "schema:contentSize": 367632,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/170/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684117%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_171_C170",
+      "duration": 60.6,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684118",
+      "title": "Chapter 171",
+      "schema:contentSize": 376272,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/171/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684118%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_172_C171",
+      "duration": 63.0,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684119",
+      "title": "Chapter 172",
+      "schema:contentSize": 425952,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/172/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684119%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_173_C172",
+      "duration": 70.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684120",
+      "title": "Chapter 173",
+      "schema:contentSize": 408672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/173/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684120%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_174_C173",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684121",
+      "title": "Chapter 174",
+      "schema:contentSize": 408672,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/174/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684121%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_175_C174",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684122",
+      "title": "Chapter 175",
+      "schema:contentSize": 406512,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/175/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684122%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_176_C175",
+      "duration": 67.8,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    },
+    {
+      "rbdigital:id": "1684123",
+      "title": "Chapter 176",
+      "schema:contentSize": 473472,
+      "href": "https://bibliomation.lyrasistechnology.org/ewml/works/98116/fulfill/11/176/rbdproxy/5f355a3b913a600e9011bf12?url=v1%2Fmedia%2F9789629546700%2Fparts%2F1684123%2Fdownload-url%3Fs3%3DZ10009935%26f%3DZ10009935_177_C176",
+      "duration": 78.60000000000001,
+      "type": "vnd.librarysimplified/rbdigital-access-document+json"
+    }
+  ],
+  "@context": "http://readium.org/webpub/default.jsonld",
+  "links": [
+    {
+      "href": "https://d9uo3h38vt4dr.cloudfront.net/Z10009935/Z10009935_Sonnets_MP3_48.zip?Policy=eyANCiAgICJTdGF0ZW1lbnQiOiBbeyANCiAgICAgICJSZXNvdXJjZSI6Imh0dHBzOi8vZDl1bzNoMzh2dDRkci5jbG91ZGZyb250Lm5ldC9aMTAwMDk5MzUvWjEwMDA5OTM1X1Nvbm5ldHNfTVAzXzQ4LnppcCIsIA0KICAgICAgIkNvbmRpdGlvbiI6eyANCiAgICAgICAgICJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NzMzNjk1NX0sDQogICAgICAgICAiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTczNDQ0NTV9DQogICAgICB9IA0KICAgfV0gDQp9&Signature=WOIIiT~Gddh2dD5lecxG1ZswkP0GJhif~sSVG4wA6eyVepwRqW2ufHqZ7aes3QSgKkWGv25~HmscUSKjcDX282JV-LqESJE9CU1jDwcaJREDsTx9ToL6IpmR6Q6I1bup2vBYIE-XGVeNY~MvdBCVzxtTQOQnged77at7R1feVoo_&Key-Pair-Id=APKAJSTNLZNA6TA4QHBQ",
+      "type": null,
+      "rel": "alternate"
+    },
+    {
+      "href": "https://d2cv0ie6dlin9h.cloudfront.net/Z10009935/Z10009935_image_512x512_iTunes.png",
+      "type": "image/png",
+      "rel": "cover"
+    }
+  ],
+  "metadata": {
+    "publisher": "Naxos Audiobooks",
+    "narrator": "Alex Jennings",
+    "description": "Everyone knows something of Shakespeare's sonnets, even if only in memorable fragments like 'the darling buds of may' or 'remembrance of things past' 'the marriage...",
+    "author": "William Shakespeare",
+    "title": "Sonnets",
+    "schema:contentSize": 68310864,
+    "rbdigital:hasDrm": false,
+    "duration": 11350.199999999999,
+    "identifier": "9789629546700",
+    "@type": "http://bib.schema.org/Audiobook",
+    "rbdigital:encryptionKey": ""
+  }
+}

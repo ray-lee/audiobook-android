@@ -104,6 +104,18 @@ abstract class PlayerManifestContract {
   }
 
   @Test
+  fun testOkSonnets() {
+    val result =
+      ManifestParsers.parse(
+        uri = URI.create("sonnets"),
+        streams = this.resource("sonnets.audiobook-manifest.json"),
+        extensions = listOf()
+      )
+    this.log().debug("result: {}", result)
+    assertTrue("Result is success", result is ParseResult.Success)
+  }
+
+  @Test
   fun testOkFlatlandGardeur() {
     val result =
       ManifestParsers.parse(
